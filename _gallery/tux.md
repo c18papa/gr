@@ -1,5 +1,5 @@
 ---
-author: Larry Ewing
+author: c18papa
 title: tux
 image_url: /images/tux.jpg
 caption: 'Το Tux είναι ένας πιγκουίνος και ο επίσημος χαρακτήρας (μασκότ) του πυρήνα του Linux. Ο χαρακτήρας χρησιμοποιείται σε πολλά άλλα προγράμματα Linux και ως γενικό σύμβολο του Linux.'
