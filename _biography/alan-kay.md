@@ -24,4 +24,4 @@ gallery:
 
 
 
-
+{% include slides.html caption="Εικόνες για την βιογραφία του Αλαν Κεη" %}
