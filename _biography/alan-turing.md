@@ -16,6 +16,6 @@ gallery:
     caption: "TODO!!!Alan Kay in front of a Xerox Alto and a piano"
 ---
 
-{% include_relative bio-turing.md %}
+{% include bio-turing.md %}
 
 {% include slides.html caption="Εικόνες για την βιογραφία του Άλαν Τούρινγ" %}
