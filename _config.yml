@@ -123,6 +123,7 @@ exclude:
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
   - _case-study/affective.md
+  - _case-study/arduino.md
   - _case-study/cs-affective.md
   - _case-study/cs-arduino.md
   - _case-study/cs-facebook.md
