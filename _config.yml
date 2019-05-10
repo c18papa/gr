@@ -243,7 +243,7 @@ collections:
     output: true
     permalink: /biography/:path/
   case-study:
-    output: true
+    output: false
     permalink: /case-study/:path/
   gallery:
     output: true
