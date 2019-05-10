@@ -122,7 +122,11 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
-  - /case_study
+  - _case_study/affective.md
+  - _case_study/arduino.md
+  - _case_study/cs-affective.md
+  - _case_study/cs-arduino.md
+  - _case_study/cs-facebook.md  
 keep_files:
   - .git
   - .svn
