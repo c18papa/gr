@@ -121,7 +121,8 @@ exclude:
   - README
   - tmp
   - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test  
+  - /test # ignore Minimal Mistakes /test 
+  - case-study
 keep_files:
   - .git
   - .svn
@@ -242,7 +243,7 @@ collections:
     output: true
     permalink: /biography/:path/
   case-study:
-    output: false
+    output: true
     permalink: /case-study/:path/
   gallery:
     output: true
