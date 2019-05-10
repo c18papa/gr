@@ -122,7 +122,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test 
-  - _case-study/*.md
+  - "_case-study/*.md"
 keep_files:
   - .git
   - .svn
