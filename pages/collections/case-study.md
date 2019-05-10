@@ -6,9 +6,13 @@ permalink: /case-study/
 show_meta: false
 header: no
 ---
-
+ {% comment %} 
+ 
 <div class="grid__wrapper">
   {% for item in site.case-study %}
     {% include gallery-item.html type="grid" %}
   {% endfor %}
 </div>
+
+
+ {% endcomment %} 
