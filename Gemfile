@@ -2,5 +2,7 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 
-gem "jekyll"
-gem "minimal-mistakes-jekyll"
+gem "github-pages"
+gem "jekyll", git: "https://github.com/jekyll/jekyll.git", branch: "3.8-stable"
+
+
