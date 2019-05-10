@@ -125,6 +125,7 @@ exclude:
   - _case-study/affective.md
   - _case-study/arduino.md
   - _case-study/cs-affective.md
+  - _case-study/cs-affective.md
   - _case-study/cs-arduino.md
   - _case-study/cs-facebook.md
   - _case-study/cs-google_search.md
