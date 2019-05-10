@@ -122,7 +122,6 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test 
-
 - _case_study/affective.md
 - _case_study/arduino.md
 - _case_study/cs-affective.md
