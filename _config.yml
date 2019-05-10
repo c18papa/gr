@@ -121,36 +121,8 @@ exclude:
   - README
   - tmp
   - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test 
-- _case_study/affective.md
-- _case_study/arduino.md
-- _case_study/cs-affective.md
-- _case_study/cs-arduino.md
-- _case_study/cs-facebook.md
-- _case_study/cs-google_search.md
-- _case_study/cs-ipod.md
-- _case_study/cs-minecraft.md
-- _case_study/cs-mouse.md
-- _case_study/cs-poet.md
-- _case_study/cs-reactable.md
-- _case_study/cs-star.md
-- _case_study/cs-wikipedia.md
-- _case_study/cs-windows.md
-- _case_study/cs-www.md
-- _case_study/cs-xerox-parc.md
-- _case_study/facebook.md
-- _case_study/google_search.md
-- _case_study/ipod.md
-- _case_study/minecraft.md
-- _case_study/mouse.md
-- _case_study/poet.md
-- _case_study/reactable.md
-- _case_study/star.md
-- _case_study/wikipedia.md
-- _case_study/windows.md
-- _case_study/www.md
-- _case_study/xerox-parc.md
-
+  - /test # ignore Minimal Mistakes /test
+  - /case_study
 keep_files:
   - .git
   - .svn
