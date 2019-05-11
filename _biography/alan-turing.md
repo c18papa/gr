@@ -12,7 +12,7 @@ tags:
 gallery:
   - image_url: /images/alan-turing-memorial.jpg
     caption: "Ανδριάντας προς τιμή του Τούρινγκ στο Sackville Park"
-  - image_url: /images/alan-kay.jpg
+  - image_url: /images/alan-turing-memorial2.jpg
     caption: "Άγαλμα του Τούρινγκ στο πάρκο Bletchley"
 ---
 
