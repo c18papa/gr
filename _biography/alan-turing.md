@@ -18,6 +18,6 @@ gallery:
     caption: "Ο Τούρινγκ κατάφερε να αποκρυπτογραφήσει τα μηνύματα που δημιουργούσε η συσκευή Enigma"
 ---
 
-{% include_relative bio-turing.md %}
+{% include bio-turing.md %}
 
 {% include slides.html caption="Εικόνες για την βιογραφία του Άλαν Τούρινγ" %}
