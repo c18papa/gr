@@ -13,9 +13,9 @@ gallery:
   - image_url: /images/alan-turing-memorial.jpg
     caption: "Ανδριάντας προς τιμή του Τούρινγκ στο Sackville Park"
   - image_url: /images/alan-kay.jpg
-    caption: "TODO!!!Alan Kay in front of a Xerox Alto and a piano"
+    caption: "Άγαλμα του Τούρινγκ στο πάρκο Bletchley"
 ---
 
-{% include bio-turing.md %}
+{% include_relative bio-turing.md %}
 
 {% include slides.html caption="Εικόνες για την βιογραφία του Άλαν Τούρινγ" %}
