@@ -14,6 +14,8 @@ gallery:
     caption: "Ανδριάντας προς τιμή του Τούρινγκ στο Sackville Park"
   - image_url: /images/alan-turing-memorial2.jpg
     caption: "Άγαλμα του Τούρινγκ στο πάρκο Bletchley"
+  - image_url: /images/enigma-machine.jpg
+    caption: "Ο Τούρινγκ κατάφερε να αποκρυπτογραφήσει τα μηνύματα που δημιουργούσε η συσκευή Enigma"
 ---
 
 {% include_relative bio-turing.md %}
