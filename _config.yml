@@ -278,6 +278,7 @@ defaults:
       layout: single
       header: no
       show_meta: false
+      share: true
   - scope:
       path: ""
       type: case-study
@@ -285,6 +286,7 @@ defaults:
       layout: single
       header: no
       show_meta: false
+      share: true
   - scope:
       path: ""
       type: biography
@@ -292,3 +294,4 @@ defaults:
       layout: single
       header: no
       show_meta: false
+      share: true
