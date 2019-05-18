@@ -270,6 +270,7 @@ defaults:
       layout: gallery-figure
       header: no
       show_meta: false
+      share: true
   - scope:
       path: ""
       type: quotes
