@@ -1,5 +1,4 @@
 ---
-share: true
 author: evabat
 title: active-badge
 image_url: /images/active-badge.jpg
